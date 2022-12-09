@@ -1,0 +1,186 @@
+<Cellosaurus>
+    <header>
+    <terminology-name>Cellosaurus</terminology-name>
+    <description>Cellosaurus: a controlled vocabulary of cell lines</description>
+    <release version="43.0" updated="2022-09-22" nb-cell-lines="141885" nb-publications="25074"/>
+    <terminology-list>
+        <terminology name="NCBI-Taxonomy" source="National Center for Biotechnology Information" description="Taxonomy database of organisms">
+        <url>https://www.ncbi.nlm.nih.gov/taxonomy</url>
+        </terminology>
+        <terminology name="NCIt" source="National Cancer Institute" description="Terminology of biomedical concepts">
+        <url>https://ncit.nci.nih.gov</url>
+        </terminology>
+        <terminology name="ORDO" source="Orphanet" description="Rare diseases ontology">
+        <url>https://www.ebi.ac.uk/ols/ontologies/ordo</url>
+        </terminology>
+        <terminology name="ChEBI" source="European Molecular Biology Laboratory" description="Chemical Entities of Biological Interest">
+        <url>https://www.ebi.ac.uk/chebi/</url>
+        </terminology>
+        <terminology name="PubChem" source="National Center for Biotechnology Information" description="Public repository for information on chemical substances and their biological activities">
+        <url>https://pubchem.ncbi.nlm.nih.gov/</url>
+        </terminology>
+        <terminology name="DrugBank" source="Wishart's group" description="DrugBank database">
+        <url>https://www.drugbank.ca/</url>
+        </terminology>
+    </terminology-list>
+    </header>
+    <cell-line-list>
+        <cell-line category="Hybridoma" created="2021-09-23" last-updated="2021-12-16" entry-version="2">
+            <accession-list>
+                <accession type="primary">CVCL_B0T9</accession>
+            </accession-list>
+            <name-list>
+                <name type="identifier">#132 PC3-1-SC-E8</name>
+                <name type="synonym">Z48-5MG-70</name>
+            </name-list>
+            <comment-list>
+                <comment category="Monoclonal antibody target">
+                <xref-list>
+                    <xref database="UniProtKB" category="Sequence databases" accession="P47712">
+                    <property-list>
+                        <property name="gene/protein designation" value="Human PLA3G4A"/>
+                    </property-list>
+                    <url><![CDATA[https://www.uniprot.org/uniprotkb/P47712/entry]]></url>
+                    </xref>
+                </xref-list>
+                </comment>
+                <comment category="Monoclonal antibody isotype"> IgG2a </comment>
+                <comment category="Group"> Patented cell line </comment>
+            </comment-list>
+            <species-list>
+                <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+            </species-list>
+            <derived-from>
+                <cv-term terminology="Cellosaurus" accession="CVCL_D145">HL-1 Friendly Myeloma-653</cv-term>
+            </derived-from>
+            <reference-list>
+                <reference resource-internal-ref="Patent=EP0501779A1"/>
+            </reference-list>
+            <registration-list>
+                <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-10564"/>
+            </registration-list>
+            <xref-list>
+                <xref database="Wikidata" category="Encyclopedic resources" accession="Q108819335">
+                <url><![CDATA[https://www.wikidata.org/wiki/Q108819335]]></url>
+                </xref>
+            </xref-list>
+        </cell-line>
+        <cell-line category="Hybridoma" created="2021-09-23" last-updated="2021-12-16" entry-version="2">
+        <accession-list>
+            <accession type="primary">CVCL_B0T8</accession>
+        </accession-list>
+        <name-list>
+            <name type="identifier">#132 PL12 SC-D1</name>
+            <name type="synonym">Z48-5MG-63</name>
+        </name-list>
+        <comment-list>
+            <comment category="Monoclonal antibody target">
+            <xref-list>
+                <xref database="UniProtKB" category="Sequence databases" accession="P47712">
+                <property-list>
+                    <property name="gene/protein designation" value="Human PLA3G4A"/>
+                </property-list>
+                <url><![CDATA[https://www.uniprot.org/uniprotkb/P47712/entry]]></url>
+                </xref>
+            </xref-list>
+            </comment>
+            <comment category="Monoclonal antibody isotype"> IgG1 </comment>
+            <comment category="Group"> Patented cell line </comment>
+        </comment-list>
+        <species-list>
+            <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+        </species-list>
+        <derived-from>
+            <cv-term terminology="Cellosaurus" accession="CVCL_D145">HL-1 Friendly Myeloma-653</cv-term>
+        </derived-from>
+        <reference-list>
+            <reference resource-internal-ref="Patent=EP0501779A1"/>
+        </reference-list>
+        <registration-list>
+            <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-10563"/>
+        </registration-list>
+        <xref-list>
+            <xref database="Wikidata" category="Encyclopedic resources" accession="Q108819336">
+            <url><![CDATA[https://www.wikidata.org/wiki/Q108819336]]></url>
+            </xref>
+        </xref-list>
+        </cell-line>
+        <cell-line category="Transformed cell line" created="2012-10-22" last-updated="2021-05-20" entry-version="14" sex="Female" age="Age unspecified">
+        <accession-list>
+            <accession type="primary">CVCL_E548</accession>
+        </accession-list>
+        <name-list>
+            <name type="identifier">#15310-LN</name>
+            <name type="synonym">15310-LN</name>
+            <name type="synonym">TER461</name>
+            <name type="synonym">TER-461</name>
+            <name type="synonym">Ter 461</name>
+            <name type="synonym">TER479</name>
+            <name type="synonym">TER-479</name>
+            <name type="synonym">Ter 479</name>
+            <name type="synonym">Extract 519</name>
+        </name-list>
+        <comment-list>
+            <comment category="Derived from sampling site"> Peripheral blood </comment>
+            <comment category="Transformant">
+            <cv-term terminology="NCBI-Taxonomy" accession="10376">Epstein-Barr virus (EBV)</cv-term>
+            </comment>
+            <comment category="Part of"> 12th International Histocompatibility Workshop (12IHW) cell line panel </comment>
+        </comment-list>
+        <species-list>
+            <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+        </species-list>
+        <web-page-list>
+            <url><![CDATA[http://pathology.ucla.edu/workfiles/360cx.pdf]]></url>
+            <url><![CDATA[http://pathology.ucla.edu/workfiles/370cx.pdf]]></url>
+        </web-page-list>
+        <hla-lists>
+            <hla-list>
+            <hla-gene gene-symbol="HLA-A">
+                <hla-alleles>03,25</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-B">
+                <hla-alleles>37:01:01:01,47:01:01:03</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-C">
+                <hla-alleles>06</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DPA1">
+                <hla-alleles>01</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DPB1">
+                <hla-alleles>04:01:01</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DQA1">
+                <hla-alleles>01:01:01:01,01:03:01</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DQB1">
+                <hla-alleles>05:01:01;06:03:01:02</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DRB1">
+                <hla-alleles>01:01:01,14:17</hla-alleles>
+            </hla-gene>
+            <hla-gene gene-symbol="HLA-DRB3">
+                <hla-alleles>01:01</hla-alleles>
+            </hla-gene>
+            <hla-list-source>
+                <source>IPD-IMGT/HLA; 10074</source>
+            </hla-list-source>
+            </hla-list>
+        </hla-lists>
+        <xref-list>
+            <xref database="dbMHC" category="Cell line databases/resources" accession="48439"> </xref>
+            <xref database="ECACC" category="Cell line collections" accession="94050311">
+            <url><![CDATA[https://www.phe-culturecollections.org.uk/products/celllines/generalcell/detail.jsp?refId=94050311&collection=ecacc_gc]]></url>
+            </xref>
+            <xref database="IHW" category="Cell line databases/resources" accession="IHW09326"> </xref>
+            <xref database="IPD-IMGT/HLA" category="Cell line databases/resources" accession="10074">
+            <url><![CDATA[https://www.ebi.ac.uk/ipd/imgt/hla/cells/cell/?cellid=10074]]></url>
+            </xref>
+            <xref database="Wikidata" category="Encyclopedic resources" accession="Q54398957">
+            <url><![CDATA[https://www.wikidata.org/wiki/Q54398957]]></url>
+            </xref>
+        </xref-list>
+        </cell-line>
+    </cell-line-list>
+</Cellosaurus>
