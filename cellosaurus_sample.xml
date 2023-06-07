@@ -1,0 +1,1795 @@
+<Cellosaurus>
+<cell-line-list>
+<cell-line category="Hybridoma" created="2021-09-23" last-updated="2021-12-16" entry-version="2">
+  <accession-list>
+    <accession type="primary">CVCL_B0T9</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#132 PC3-1-SC-E8</name>
+    <name type="synonym">Z48-5MG-70</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target">
+      <xref-list>
+        <xref database="UniProtKB" category="Sequence databases" accession="P47712">
+          <property-list>
+            <property name="gene/protein designation" value="Human PLA3G4A"/>
+          </property-list>
+          <url><![CDATA[https://www.uniprot.org/uniprotkb/P47712/entry]]></url>
+        </xref>
+      </xref-list>
+    </comment>
+    <comment category="Monoclonal antibody isotype"> IgG2a </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_D145">HL-1 Friendly Myeloma-653</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="Patent=EP0501779A1"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-10564"/>
+  </registration-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q108819335">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q108819335]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Hybridoma" created="2021-09-23" last-updated="2021-12-16" entry-version="2">
+  <accession-list>
+    <accession type="primary">CVCL_B0T8</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#132 PL12 SC-D1</name>
+    <name type="synonym">Z48-5MG-63</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target">
+      <xref-list>
+        <xref database="UniProtKB" category="Sequence databases" accession="P47712">
+          <property-list>
+            <property name="gene/protein designation" value="Human PLA3G4A"/>
+          </property-list>
+          <url><![CDATA[https://www.uniprot.org/uniprotkb/P47712/entry]]></url>
+        </xref>
+      </xref-list>
+    </comment>
+    <comment category="Monoclonal antibody isotype"> IgG1 </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_D145">HL-1 Friendly Myeloma-653</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="Patent=EP0501779A1"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-10563"/>
+  </registration-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q108819336">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q108819336]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Transformed cell line" created="2012-10-22" last-updated="2021-05-20" entry-version="14" sex="Female" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_E548</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#15310-LN</name>
+    <name type="synonym">15310-LN</name>
+    <name type="synonym">TER461</name>
+    <name type="synonym">TER-461</name>
+    <name type="synonym">Ter 461</name>
+    <name type="synonym">TER479</name>
+    <name type="synonym">TER-479</name>
+    <name type="synonym">Ter 479</name>
+    <name type="synonym">Extract 519</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Peripheral blood </comment>
+    <comment category="Transformant">
+      <cv-term terminology="NCBI-Taxonomy" accession="10376">Epstein-Barr virus (EBV)</cv-term>
+    </comment>
+    <comment category="Part of"> 12th International Histocompatibility Workshop (12IHW) cell line panel </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <web-page-list>
+    <url><![CDATA[http://pathology.ucla.edu/workfiles/360cx.pdf]]></url>
+    <url><![CDATA[http://pathology.ucla.edu/workfiles/370cx.pdf]]></url>
+  </web-page-list>
+  <hla-lists>
+    <hla-list>
+      <hla-gene gene-symbol="HLA-A">
+        <hla-alleles>03,25</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-B">
+        <hla-alleles>37:01:01:01,47:01:01:03</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-C">
+        <hla-alleles>06</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DPA1">
+        <hla-alleles>01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DPB1">
+        <hla-alleles>04:01:01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DQA1">
+        <hla-alleles>01:01:01:01,01:03:01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DQB1">
+        <hla-alleles>05:01:01;06:03:01:02</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DRB1">
+        <hla-alleles>01:01:01,14:17</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DRB3">
+        <hla-alleles>01:01</hla-alleles>
+      </hla-gene>
+      <hla-list-source>
+        <source>IPD-IMGT/HLA; 10074</source>
+      </hla-list-source>
+    </hla-list>
+  </hla-lists>
+  <xref-list>
+    <xref database="dbMHC" category="Cell line databases/resources" accession="48439"> </xref>
+    <xref database="ECACC" category="Cell line collections" accession="94050311">
+      <url><![CDATA[https://www.phe-culturecollections.org.uk/products/celllines/generalcell/detail.jsp?refId=94050311&collection=ecacc_gc]]></url>
+    </xref>
+    <xref database="IHW" category="Cell line databases/resources" accession="IHW09326"> </xref>
+    <xref database="IPD-IMGT/HLA" category="Cell line databases/resources" accession="10074">
+      <url><![CDATA[https://www.ebi.ac.uk/ipd/imgt/hla/cells/cell/?cellid=10074]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54398957">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54398957]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Hybridoma" created="2017-08-22" last-updated="2018-09-07" entry-version="2">
+  <accession-list>
+    <accession type="primary">CVCL_KA96</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#16-15</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target">
+      <xref-list>
+        <xref database="UniProtKB" category="Sequence databases" accession="Q5T5X7">
+          <property-list>
+            <property name="gene/protein designation" value="Human BEND3"/>
+          </property-list>
+          <url><![CDATA[https://www.uniprot.org/uniprotkb/Q5T5X7/entry]]></url>
+        </xref>
+      </xref-list>
+    </comment>
+    <comment category="Monoclonal antibody isotype"> IgM </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+    <cv-term terminology="NCBI-Taxonomy" accession="10116">Rattus norvegicus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_4032">P3X63Ag8.653</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=25400923"/>
+  </reference-list>
+  <xref-list>
+    <xref database="RCB" category="Cell line collections" accession="RCB4635">
+      <url><![CDATA[http://cellbank.brc.riken.jp/cell_bank/CellInfo/?cellNo=RCB4635&lang=En]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54422067">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54422067]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2017-05-15" last-updated="2020-07-02" entry-version="3" sex="Male" age="1-2M">
+  <accession-list>
+    <accession type="primary">CVCL_IW91</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#40a</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> C57BL/6 </comment>
+    <comment category="Derived from metastatic site"> Peritoneum </comment>
+    <comment category="Transformant">
+      <cv-term terminology="ChEBI" accession="CHEBI:46666">Crocidolite asbestos</cv-term>
+    </comment>
+    <comment category="Characteristics"> Established from parent cell line after two passages in the peritoneal cavity of C57BL/6 mice (PubMed=28159921) </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C21619">Mouse mesothelioma</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_IW90">40</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=28159921"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54422071">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54422071]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Hybridoma" created="2012-06-06" last-updated="2021-09-23" entry-version="7">
+  <accession-list>
+    <accession type="primary">CVCL_B375</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#490</name>
+    <name type="synonym">490</name>
+    <name type="synonym">Mab 7</name>
+    <name type="synonym">Mab7</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target"> Cronartium ribicola antigens </comment>
+    <comment category="Monoclonal antibody isotype"> IgM, kappa </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_4032">P3X63Ag8.653</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="Patent=US5616470"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-12029"/>
+  </registration-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001018">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001018]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="HB-12029">
+      <url><![CDATA[https://www.atcc.org/Products/HB-12029]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54422073">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54422073]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Hybridoma" created="2014-07-17" last-updated="2021-09-23" entry-version="6">
+  <accession-list>
+    <accession type="primary">CVCL_X345</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#822</name>
+    <name type="synonym">822</name>
+    <name type="synonym">Mab 13</name>
+    <name type="synonym">Mab13</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target"> Cronartium ribicola antigens </comment>
+    <comment category="Monoclonal antibody isotype"> IgM, kappa </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_4032">P3X63Ag8.653</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="Patent=US5616470"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-12030"/>
+  </registration-list>
+  <xref-list>
+    <xref database="ATCC" category="Cell line collections" accession="HB-12030">
+      <url><![CDATA[https://www.atcc.org/Products/HB-12030]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54422076">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54422076]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Transformed cell line" created="2012-10-22" last-updated="2021-05-20" entry-version="13" sex="Sex unspecified" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_E549</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">#W7079</name>
+    <name type="synonym">#W7079 REM</name>
+    <name type="synonym">REMUS</name>
+    <name type="synonym">W7079</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Peripheral blood </comment>
+    <comment category="Transformant">
+      <cv-term terminology="NCBI-Taxonomy" accession="10376">Epstein-Barr virus (EBV)</cv-term>
+    </comment>
+    <comment category="Part of"> 12th International Histocompatibility Workshop (12IHW) cell line panel </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=30844424"/>
+  </reference-list>
+  <hla-lists>
+    <hla-list>
+      <hla-gene gene-symbol="HLA-A">
+        <hla-alleles>02:01,02:06</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-B">
+        <hla-alleles>40:01:02:01,67:01:01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-C">
+        <hla-alleles>03,07</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DPB1">
+        <hla-alleles>04:01,05:01</hla-alleles>
+      </hla-gene>
+      <hla-list-source>
+        <source>IPD-IMGT/HLA; 11548</source>
+      </hla-list-source>
+    </hla-list>
+  </hla-lists>
+  <xref-list>
+    <xref database="dbMHC" category="Cell line databases/resources" accession="48440"> </xref>
+    <xref database="ECACC" category="Cell line collections" accession="94022552">
+      <url><![CDATA[https://www.phe-culturecollections.org.uk/products/celllines/generalcell/detail.jsp?refId=94022552&collection=ecacc_gc]]></url>
+    </xref>
+    <xref database="IHW" category="Cell line databases/resources" accession="IHW09223"> </xref>
+    <xref database="IPD-IMGT/HLA" category="Cell line databases/resources" accession="11548">
+      <url><![CDATA[https://www.ebi.ac.uk/ipd/imgt/hla/cells/cell/?cellid=11548]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54480892">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54480892]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Hybridoma" created="2013-02-11" last-updated="2021-09-23" entry-version="6">
+  <accession-list>
+    <accession type="primary">CVCL_G217</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">(BF1) 8A3.31</name>
+  </name-list>
+  <comment-list>
+    <comment category="Monoclonal antibody target">
+      <xref-list>
+        <xref database="UniProtKB" category="Sequence databases" accession="P05067">
+          <property-list>
+            <property name="gene/protein designation" value="Human APP (Note=Binds to APP42)"/>
+          </property-list>
+          <url><![CDATA[https://www.uniprot.org/uniprotkb/P05067/entry]]></url>
+        </xref>
+      </xref-list>
+    </comment>
+    <comment category="Monoclonal antibody isotype"> IgG1 </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="Patent=US4845026"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, American Type Culture Collection (ATCC)" registration-number="HB-9283"/>
+  </registration-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001019">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001019]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="HB-9283">
+      <url><![CDATA[https://www.atcc.org/Products/HB-9283]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54422077">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54422077]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2018-05-14" last-updated="2022-06-23" entry-version="4" sex="Sex unspecified" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_VG99</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">(L)PC6</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Lung </comment>
+  </comment-list>
+  <str-list>
+    <source-list>
+      <source>TKG</source>
+    </source-list>
+    <marker-list>
+      <marker id="vWA" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>16,18</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="TPOX" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>8,11</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="TH01" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>6</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="D7S820" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>8,12</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="D5S818" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>11,12</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="D16S539" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>9,11</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="D13S317" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>11</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="CSF1PO" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>12</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+      <marker id="Amelogenin" conflict="false">
+        <marker-data-list>
+          <marker-data>
+            <marker-alleles>X</marker-alleles>
+          </marker-data>
+        </marker-data-list>
+      </marker>
+    </marker-list>
+  </str-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C4878">Lung carcinoma</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="TKG" category="Cell line collections" accession="TKG 0732">
+      <url><![CDATA[http://www2.idac.tohoku.ac.jp/dep/ccr/TKGdate/TKGvo107/0732.html]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q53869506">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q53869506]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2012-04-04" last-updated="2021-12-16" entry-version="9" sex="Sex unspecified" age="Embryo">
+  <accession-list>
+    <accession type="primary">CVCL_6479</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ (A)</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Derived from sampling site"> Whole embryo </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001020">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001020]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6470">
+      <property-list>
+        <property name="Discontinued" value="true"/>
+      </property-list>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481857">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481857]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2012-04-04" last-updated="2021-12-16" entry-version="9" sex="Sex unspecified" age="Embryo">
+  <accession-list>
+    <accession type="primary">CVCL_6480</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ (B)</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Derived from sampling site"> Whole embryo </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001021">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001021]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6471">
+      <property-list>
+        <property name="Discontinued" value="true"/>
+      </property-list>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481859">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481859]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2013-11-05" last-updated="2021-12-16" entry-version="7" sex="Sex unspecified" age="Embryo">
+  <accession-list>
+    <accession type="primary">CVCL_S361</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ (C)</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Derived from sampling site"> Whole embryo </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6472">
+      <property-list>
+        <property name="Discontinued" value="true"/>
+      </property-list>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481860">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481860]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2012-04-04" last-updated="2022-03-17" entry-version="11" sex="Sex unspecified" age="14FD">
+  <accession-list>
+    <accession type="primary">CVCL_4977</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ Li</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Derived from sampling site"> Embryonic liver </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <web-page-list>
+    <url><![CDATA[https://www.thermofisher.com/ch/en/home/technical-resources/cell-lines/c/cell-lines-detail-340.html]]></url>
+  </web-page-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001022">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001022]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6467">
+      <property-list>
+        <property name="Discontinued" value="true"/>
+      </property-list>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481861">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481861]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2012-04-04" last-updated="2021-05-20" entry-version="7" sex="Female" age="Adult">
+  <accession-list>
+    <accession type="primary">CVCL_3627</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ MGT</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Derived from sampling site"> Mammary gland </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C21678">Malignant neoplasms of the mouse mammary gland</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001023">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001023]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6468">
+      <url><![CDATA[https://www.atcc.org/Products/CRL-6468]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54399824">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54399824]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2012-04-04" last-updated="2021-05-20" entry-version="8" sex="Sex unspecified" age="&lt;1D">
+  <accession-list>
+    <accession type="primary">CVCL_3628</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">+/+ SCT</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> HRS/J </comment>
+    <comment category="Part of"> Naval Biosciences Laboratory (NBL) collection (transferred to ATCC in 1982) </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C23988">Mouse neoplasms</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001024">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001024]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-6469">
+      <url><![CDATA[https://www.atcc.org/Products/CRL-6469]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481866">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481866]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Spontaneously immortalized cell line" created="2019-05-24" last-updated="2020-07-02" entry-version="2" sex="Male" age="Embryonic stage">
+  <accession-list>
+    <accession type="primary">CVCL_WM09</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0.57</name>
+  </name-list>
+  <comment-list>
+    <comment category="Group"> Insect cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="7227">Drosophila melanogaster</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="CelloPub=CLPUB00496"/>
+    <reference resource-internal-ref="DOI=10.1016/B978-012229460-0/50004-X"/>
+    <reference resource-internal-ref="PubMed=821777"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q93293951">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q93293951]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Transformed cell line" created="2021-12-16" last-updated="2022-03-17" entry-version="2" sex="Sex unspecified" age="Adult">
+  <accession-list>
+    <accession type="primary">CVCL_B5B3</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0.5alpha</name>
+    <name type="synonym">0.5 alpha</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Peripheral blood </comment>
+    <comment category="Transformant">
+      <cv-term terminology="NCBI-Taxonomy" accession="10376">Epstein-Barr virus (EBV)</cv-term>
+    </comment>
+    <comment category="Monoclonal antibody target">
+      <xref-list>
+        <xref database="UniProtKB" category="Sequence databases" accession="P03381">
+          <property-list>
+            <property name="gene/protein designation" value="Human T-cell leukemia virus 1 (HTLV-1) env (gp46)"/>
+          </property-list>
+          <url><![CDATA[https://www.uniprot.org/uniprotkb/P03381/entry]]></url>
+        </xref>
+      </xref-list>
+    </comment>
+    <comment category="Monoclonal antibody isotype"> IgG1 </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=2422659"/>
+    <reference resource-internal-ref="PubMed=2476442"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q110429629">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q110429629]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Transformed cell line" created="2012-10-22" last-updated="2021-05-20" entry-version="12" sex="Sex unspecified" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_E557</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">00136</name>
+    <name type="synonym">136</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Peripheral blood </comment>
+    <comment category="Transformant">
+      <cv-term terminology="NCBI-Taxonomy" accession="10376">Epstein-Barr virus (EBV)</cv-term>
+    </comment>
+    <comment category="Population"> Native North American </comment>
+    <comment category="Part of"> 12th International Histocompatibility Workshop (12IHW) cell line panel </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <hla-lists>
+    <hla-list>
+      <hla-gene gene-symbol="HLA-A">
+        <hla-alleles>02</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-B">
+        <hla-alleles>40:05,48:01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-C">
+        <hla-alleles>03:04,08</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DPB1">
+        <hla-alleles>04:01,14:01</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DQB1">
+        <hla-alleles>03;04:02</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DRB1">
+        <hla-alleles>04:10,14:06</hla-alleles>
+      </hla-gene>
+      <hla-gene gene-symbol="HLA-DRB3">
+        <hla-alleles>01,01</hla-alleles>
+      </hla-gene>
+      <hla-list-source>
+        <source>IPD-IMGT/HLA; 10002</source>
+      </hla-list-source>
+    </hla-list>
+  </hla-lists>
+  <xref-list>
+    <xref database="dbMHC" category="Cell line databases/resources" accession="48441"> </xref>
+    <xref database="ECACC" category="Cell line collections" accession="94071418">
+      <url><![CDATA[https://www.phe-culturecollections.org.uk/products/celllines/generalcell/detail.jsp?refId=94071418&collection=ecacc_gc]]></url>
+    </xref>
+    <xref database="IHW" category="Cell line databases/resources" accession="IHW09279"> </xref>
+    <xref database="IPD-IMGT/HLA" category="Cell line databases/resources" accession="10002">
+      <url><![CDATA[https://www.ebi.ac.uk/ipd/imgt/hla/cells/cell/?cellid=10002]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54481868">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54481868]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2020-07-02" last-updated="2021-12-16" entry-version="3" sex="Female" age="39Y">
+  <accession-list>
+    <accession type="primary">CVCL_ZB51</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0138F-1</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+    <comment category="Group"> Non-human primate cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9598">Pan troglodytes</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=32151953"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q98110377">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q98110377]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2018-05-14" last-updated="2022-03-17" entry-version="4" sex="Female" age="15Y">
+  <accession-list>
+    <accession type="primary">CVCL_VG31</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0162D</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin; dermis. Cell type=Fibroblast </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=26740656"/>
+  </reference-list>
+  <xref-list>
+    <xref database="SKIP" category="Cell line databases/resources" accession="SKIP001331">
+      <url><![CDATA[https://skip.stemcellinformatics.org/SKIPSearch/cell_line_detail?accession=SKIP001331]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54399825">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54399825]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2018-05-14" last-updated="2022-03-17" entry-version="4" sex="Female" age="12Y">
+  <accession-list>
+    <accession type="primary">CVCL_VG32</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0165D</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin; dermis. Cell type=Fibroblast </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=26740656"/>
+  </reference-list>
+  <xref-list>
+    <xref database="SKIP" category="Cell line databases/resources" accession="SKIP001332">
+      <url><![CDATA[https://skip.stemcellinformatics.org/SKIPSearch/cell_line_detail?accession=SKIP001332]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54399827">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54399827]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2020-10-29" last-updated="2021-01-12" entry-version="2" sex="Female" age="Blastocyst stage">
+  <accession-list>
+    <accession type="primary">CVCL_ZW87</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">017-PC-A</name>
+    <name type="synonym">PC-A</name>
+  </name-list>
+  <comment-list>
+    <comment category="Characteristics"> hESC-derived mesenchymal progenitor </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_B854">ESI-017</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=27109637"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q102111939">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q102111939]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2020-10-29" last-updated="2021-01-12" entry-version="2" sex="Female" age="Blastocyst stage">
+  <accession-list>
+    <accession type="primary">CVCL_ZW88</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">017-PC-M</name>
+    <name type="synonym">PC-M</name>
+  </name-list>
+  <comment-list>
+    <comment category="Characteristics"> hESC-derived pericyte-like cell </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_ZW87">017-PC-A</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=27109637"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q102111940">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q102111940]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2020-10-29" last-updated="2021-01-12" entry-version="2" sex="Female" age="Blastocyst stage">
+  <accession-list>
+    <accession type="primary">CVCL_ZW89</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">017-PC-O</name>
+    <name type="synonym">PC-O</name>
+  </name-list>
+  <comment-list>
+    <comment category="Characteristics"> hESC-derived osteogenic progenitor </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_ZW87">017-PC-A</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=27109637"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q102111941">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q102111941]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2019-09-06" last-updated="2021-09-23" entry-version="4" sex="Male" age="68Y">
+  <accession-list>
+    <accession type="primary">CVCL_XB90</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0225-02Sp</name>
+  </name-list>
+  <comment-list>
+    <comment category="Doubling time"> 40.32 hours (Patent=CN102433305B) </comment>
+    <comment category="Population"> Chinese </comment>
+    <comment category="Group"> Patented cell line </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C3493">Lung squamous cell carcinoma</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="Patent=CN102433305B"/>
+  </reference-list>
+  <registration-list>
+    <registration registry="International Depositary Authority, China Center for Type Culture Collection" registration-number="CCTCC C201028"/>
+  </registration-list>
+  <xref-list>
+    <xref database="CCRID" category="Cell line databases/resources" accession="4201PAT-CCTCC00348">
+      <url><![CDATA[http://www.cellresource.cn/cellsearch.aspx?sc=1&where=4201PAT-CCTCC00348]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q93293979">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q93293979]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2012-04-04" last-updated="2018-09-07" entry-version="6" sex="Female">
+  <accession-list>
+    <accession type="primary">CVCL_6494</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">022HU-NSO</name>
+  </name-list>
+  <comment-list>
+    <comment category="Breed/subspecies"> BALB/c </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C125417">Mouse plasma cell myeloma</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="10090">Mus musculus</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_3940">NS0</cv-term>
+  </derived-from>
+  <xref-list>
+    <xref database="CLO" category="Cell line databases/resources" accession="CLO_0001025">
+      <url><![CDATA[https://www.ebi.ac.uk/ols/ontologies/clo/terms?iri=http://purl.obolibrary.org/obo/CLO_0001025]]></url>
+    </xref>
+    <xref database="ATCC" category="Cell line collections" accession="CRL-11177">
+      <property-list>
+        <property name="Discontinued" value="probable"/>
+      </property-list>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54399830">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54399830]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2020-07-02" last-updated="2021-12-16" entry-version="3" sex="Female" age="39Y">
+  <accession-list>
+    <accession type="primary">CVCL_ZB52</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0274F-1</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+    <comment category="Group"> Non-human primate cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9598">Pan troglodytes</cv-term>
+  </species-list>
+  <same-origin-as>
+    <cv-term terminology="Cellosaurus" accession="CVCL_ZB53">0274F-2</cv-term>
+  </same-origin-as>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=32151953"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q98110378">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q98110378]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2020-07-02" last-updated="2021-12-16" entry-version="3" sex="Female" age="39Y">
+  <accession-list>
+    <accession type="primary">CVCL_ZB53</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0274F-2</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+    <comment category="Group"> Non-human primate cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9598">Pan troglodytes</cv-term>
+  </species-list>
+  <same-origin-as>
+    <cv-term terminology="Cellosaurus" accession="CVCL_ZB52">0274F-1</cv-term>
+  </same-origin-as>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=32151953"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q98110379">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q98110379]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2TJ</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-01 fibroblast</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=26186191"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505720">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505720]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UI</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-01 iPS #2</name>
+    <name type="synonym">03-01#2</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TJ">03-01 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019353">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019353]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505724">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505724]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UJ</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-01 iPS #3</name>
+    <name type="synonym">03-01#3</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TJ">03-01 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019354">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019354]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505726">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505726]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UK</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-01 iPS #4</name>
+    <name type="synonym">03-01#4</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TJ">03-01 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019355">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019355]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505729">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505729]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UL</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-01 iPS #9</name>
+    <name type="synonym">03-01#9</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TJ">03-01 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019356">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019356]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505734">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505734]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Female" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2TK</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-02 fibroblast</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=26186191"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505737">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505737]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Female" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UM</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-02 iPS #2B</name>
+    <name type="synonym">03-02#2B</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TK">03-02 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019360">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019360]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505740">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505740]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Female" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UN</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-02 iPS #5</name>
+    <name type="synonym">03-02#5</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TK">03-02 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019358">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019358]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505744">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505744]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Female" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UP</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-02 iPS #8</name>
+    <name type="synonym">03-02#8</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TK">03-02 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019359">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019359]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505748">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505748]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Female" age="43Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UQ</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-02 iPS #9</name>
+    <name type="synonym">03-02#9</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TK">03-02 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019357">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019357]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505750">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505750]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="8Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2TL</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-03 fibroblast</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=26186191"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505752">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505752]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="8Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UR</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-03 iPS #2</name>
+    <name type="synonym">03-03#2</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TL">03-03 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019350">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019350]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505755">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505755]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="8Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2US</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-03 iPS #3</name>
+    <name type="synonym">03-03#3</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TL">03-03 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019351">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019351]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505760">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505760]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="8Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UT</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-03 iPS #4</name>
+    <name type="synonym">03-03#4</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TL">03-03 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019352">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019352]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505766">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505766]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Finite cell line" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="6Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2TM</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-04 fibroblast</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C88412">Autism spectrum disorder</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=26186191"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505770">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505770]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="6Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UU</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-04 iPS #1</name>
+    <name type="synonym">03-04#1</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C88412">Autism spectrum disorder</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TM">03-04 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019362">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019362]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505771">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505771]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="6Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UV</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-04 iPS #3</name>
+    <name type="synonym">03-04#3</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C88412">Autism spectrum disorder</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TM">03-04 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019363">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019363]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505775">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505775]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="6Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UW</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-04 iPS #5</name>
+    <name type="synonym">03-04#5</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C88412">Autism spectrum disorder</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TM">03-04 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019364">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019364]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505779">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505779]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2021-01-12" last-updated="2022-03-17" entry-version="3" sex="Male" age="6Y">
+  <accession-list>
+    <accession type="primary">CVCL_A2UX</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">03-04 iPS #6</name>
+    <name type="synonym">03-04#6</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Arm; skin. Cell type=Fibroblast </comment>
+    <comment category="Omics"> Transcriptome analysis </comment>
+    <comment category="Omics"> Genome sequenced </comment>
+    <comment category="Omics"> Deep RNAseq analysis </comment>
+    <comment category="Omics"> Array-based CGH </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C88412">Autism spectrum disorder</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <derived-from>
+    <cv-term terminology="Cellosaurus" accession="CVCL_A2TM">03-04 fibroblast</cv-term>
+  </derived-from>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23160490"/>
+    <reference resource-internal-ref="PubMed=28235832"/>
+  </reference-list>
+  <xref-list>
+    <xref database="GEO" category="Gene expression databases" accession="GSM1019361">
+      <url><![CDATA[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1019361]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q105505781">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q105505781]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Cancer cell line" created="2017-03-03" last-updated="2021-12-16" entry-version="4" sex="Sex unspecified" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_IP58</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0308</name>
+    <name type="synonym">0308-GSC</name>
+    <name type="synonym">GSC-0308</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Brain </comment>
+    <comment category="Group"> Cancer stem cell line </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C3058">Glioblastoma</cv-term>
+    <cv-term terminology="ORDO" accession="Orphanet_360">Glioblastoma</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=23307328"/>
+  </reference-list>
+  <xref-list>
+    <xref database="BTO" category="Anatomy/cell type resources" accession="BTO:0006002">
+      <url><![CDATA[https://bioportal.bioontology.org/ontologies/BTO?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FBTO_0006002]]></url>
+    </xref>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54423216">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54423216]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2016-12-01" last-updated="2022-03-17" entry-version="7" sex="Female" age="Age unspecified">
+  <accession-list>
+    <accession type="primary">CVCL_IJ15</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">031M-CUMC/INSERM</name>
+    <name type="synonym">031M</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+  </comment-list>
+  <disease-list>
+    <cv-term terminology="NCIt" accession="C75463">Prader-Willi syndrome</cv-term>
+    <cv-term terminology="ORDO" accession="Orphanet_739">Prader-Willi syndrome</cv-term>
+  </disease-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9606">Homo sapiens</cv-term>
+  </species-list>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=27789403"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q54399831">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q54399831]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2020-07-02" last-updated="2021-12-16" entry-version="3" sex="Male" age="24Y">
+  <accession-list>
+    <accession type="primary">CVCL_YZ96</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0363M-1</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+    <comment category="Group"> Non-human primate cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9598">Pan troglodytes</cv-term>
+  </species-list>
+  <same-origin-as>
+    <cv-term terminology="Cellosaurus" accession="CVCL_YZ97">0363M-2</cv-term>
+  </same-origin-as>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=32151953"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q98110380">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q98110380]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+<cell-line category="Induced pluripotent stem cell" created="2020-07-02" last-updated="2021-12-16" entry-version="3" sex="Male" age="24Y">
+  <accession-list>
+    <accession type="primary">CVCL_YZ97</accession>
+  </accession-list>
+  <name-list>
+    <name type="identifier">0363M-2</name>
+  </name-list>
+  <comment-list>
+    <comment category="Derived from sampling site"> Skin. Cell type=Fibroblast </comment>
+    <comment category="Group"> Non-human primate cell line </comment>
+  </comment-list>
+  <species-list>
+    <cv-term terminology="NCBI-Taxonomy" accession="9598">Pan troglodytes</cv-term>
+  </species-list>
+  <same-origin-as>
+    <cv-term terminology="Cellosaurus" accession="CVCL_YZ96">0363M-1</cv-term>
+  </same-origin-as>
+  <reference-list>
+    <reference resource-internal-ref="PubMed=32151953"/>
+  </reference-list>
+  <xref-list>
+    <xref database="Wikidata" category="Encyclopedic resources" accession="Q98110436">
+      <url><![CDATA[https://www.wikidata.org/wiki/Q98110436]]></url>
+    </xref>
+  </xref-list>
+</cell-line>
+</cell-line-list>
+</Cellosaurus>
